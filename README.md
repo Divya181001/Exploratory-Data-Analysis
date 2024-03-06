@@ -36,7 +36,7 @@ MySQL Workbench: Utilized for data exploration, manipulation, and querying.
 
 Power BI: Employed for visualization of insights derived from the MySQL data.
 
-## Steps
+## Steps:
 - Data Exploration
 - Querying
 - Data Visualization
